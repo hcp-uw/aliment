@@ -20,7 +20,7 @@ function App() {
   console.log(message);
   return (
     <>
-      <h1>Hello, HCP</h1>
+      <h1>Hello, HCP!</h1>
       <p>{message}</p>
     </>
   );
