@@ -10,7 +10,7 @@ app.use(cors());
 
 // test endpoint
 app.get('/hello', (req, res) => { 
-    res.send('Attention HCP Project Team! If you see this, your front end and back end are connected') 
+    res.send('Attention HCP Project Team! If you see this, your front end and back end are connected.') 
 })
 
 // error handling
