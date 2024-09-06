@@ -1,6 +1,5 @@
 import './App.css';
 import Search from './Search';
-import ImageLogo from '/Users/emilyngo/Downloads/aliment/starter-frontend/src/aliment.webp'
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
@@ -24,7 +23,6 @@ function App() {
     <>
     <div className='container'>
       <div className='logo'>
-        <img src={ImageLogo} alt="Logo " style={{ width: '350px', height: 'auto' }}/>
       </div>
       <Search />
       {/* <div className='block-color1'>Added Ingredients</div>
