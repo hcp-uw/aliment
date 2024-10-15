@@ -59,12 +59,14 @@ function Search() {
     }
   };
 
+  // handleRemveIngredient
   const handleRemoveIngredient = (index) => {
     const updatedIngredients = [...ingredientList];
     updatedIngredients.splice(index, 1);
     setIngredientList(updatedIngredients);
   };
 
+  // handleKeyPress
   const handleKeyPress = (event) => {
     if(event.key === 'Enter') {
       handleAddIngredient();
