@@ -5,19 +5,19 @@ import './Navbar.css';
 export function Navbar() {
   return (
     <nav className='Navbar'>
-        <Link to = "/"></Link>
+        <Link to = "/aliment"></Link>
         <ul>
             <li>
-                <Link to="/">Home</Link>
+                <Link to="/aliment">Home</Link>
             </li>
             <li>
-                <Link to="/recipes">Recipes</Link>
+                <Link to="/aliment/recipes">Recipes</Link>
             </li>
             <li>
-                <Link to="/about">About</Link>
+                <Link to="/aliment/about">About</Link>
             </li>
             <li>
-                <Link  to="/contact">Contact</Link>
+                <Link  to="/aliment/contact">Contact</Link>
             </li>
         </ul>
     </nav>

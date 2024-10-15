@@ -12,10 +12,10 @@ function App() {
   return (
     <div className='full-app'>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/recipes" element={<Recipes />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/aliment" element={<Home />} />
+        <Route path="/aliment/recipes" element={<Recipes />} />
+        <Route path="/aliment/about" element={<About />} />
+        <Route path="/aliment/contact" element={<Contact />} />
       </Routes>
     </div>
 
