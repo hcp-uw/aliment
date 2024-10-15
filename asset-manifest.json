@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aliment/static/css/main.895b5c34.css",
+    "main.js": "/aliment/static/js/main.78450417.js",
+    "static/js/952.d1a9e04a.chunk.js": "/aliment/static/js/952.d1a9e04a.chunk.js",
+    "static/js/453.6ba0d6e1.chunk.js": "/aliment/static/js/453.6ba0d6e1.chunk.js",
+    "static/media/aliment logo.png": "/aliment/static/media/aliment logo.1304c2342d9ee1dbb621.png",
+    "index.html": "/aliment/index.html",
+    "main.895b5c34.css.map": "/aliment/static/css/main.895b5c34.css.map",
+    "main.78450417.js.map": "/aliment/static/js/main.78450417.js.map",
+    "952.d1a9e04a.chunk.js.map": "/aliment/static/js/952.d1a9e04a.chunk.js.map",
+    "453.6ba0d6e1.chunk.js.map": "/aliment/static/js/453.6ba0d6e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895b5c34.css",
+    "static/js/main.78450417.js"
+  ]
+}
